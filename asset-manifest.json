@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Final-Quadrants/static/css/main.76651be4.css",
+    "main.js": "/Final-Quadrants/static/js/main.3a83f5a4.js",
+    "static/js/453.0316c25a.chunk.js": "/Final-Quadrants/static/js/453.0316c25a.chunk.js",
+    "index.html": "/Final-Quadrants/index.html",
+    "main.76651be4.css.map": "/Final-Quadrants/static/css/main.76651be4.css.map",
+    "main.3a83f5a4.js.map": "/Final-Quadrants/static/js/main.3a83f5a4.js.map",
+    "453.0316c25a.chunk.js.map": "/Final-Quadrants/static/js/453.0316c25a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76651be4.css",
+    "static/js/main.3a83f5a4.js"
+  ]
+}
