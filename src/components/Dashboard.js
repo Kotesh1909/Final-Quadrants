@@ -312,7 +312,7 @@ function Dashboard({ sidebarToggle, setSidebarToggle }) {
     <div className={`${sidebarToggle ? "" : " ml-0 "} w-full`}>
 
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-2 gap-4 mx-16 py-5">
+      <div className="<div class="grid grid-cols-1 lg:grid-cols-2 gap-4 mx-8 lg:mx-16 py-5">
 
         <div className="bg-white p-4 rounded-lg shadow-md lg:col-span-1">
           <p className="font-bold">Number of E-Waste Collection Jobs Fulfilled - 100</p>
